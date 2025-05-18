@@ -12,3 +12,4 @@ GROUP BY
     cat.cd_categoria, cat.ds_categoria
 ORDER BY 
     cat.cd_categoria;
+
